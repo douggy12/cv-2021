@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "theme": "kendall"
+  },
+  "basics": {
+    "name": "Douglas Metthey",
+    "label": "Developeur Full Stack",
+    "image": "https://avatars1.githubusercontent.com/u/24653891?s=460&u=6d076c3a2c00426326248598229ed6032556375e&v=4",
+    "summary": "Je suis un développeur Full Stack. J'aime concevoir et développer des solutions innovantes. J'ai surtout travaillé pour des grandes sociétés, ce qui m'a permis de contribuer au cycle de vie complet d'applications complexes. Ancien graphiste, je garde une attention particulière à l'expérience utilisateur. Je suis toujours curieux de découvrir de nouvelles tecnologies, méthodes et expériences de travail. ",
+    "email": "d.metthey@gmail.com",
+    "location": {
+      "city": "Le Mans",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "username": "Douglas Metthey",
+        "url": "https://www.linkedin.com/in/douglas-metthey-48911a136/",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/douggy12",
+        "username": "douggy12",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2017-07-07",
+      "startDate": "2016-09-01",
+      "area": "Titre professionnel developeur logiciel",
+      "studyType": "License",
+      "institution": "IMIE Le Mans"
+    },
+    {
+      "endDate": "2009-05-06",
+      "startDate": "2007-09-01",
+      "area": "Diplôme National Supérieur d'Étude Plastique(incomplet)",
+      "studyType": "Master",
+      "institution": "École Européenne de l'Image"
+    },
+    {
+      "endDate": "2007-06-07",
+      "startDate": "2003-09-01",
+      "area": "Diplôme National d'Art Plastique",
+      "studyType": "License",
+      "institution": "École des Beaux Arts de Toulon"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / JSX",
+        "CSS",
+        "Javascript / Typescript",
+        "Angular",
+        "React"
+      ],
+      "level": "Senior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["JAVA", "Spring", "PHP", "Symphony", "Mysql", "Oracle SQL", "PLSQL", "REST", "SOAP"],
+      "level": "Senior",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["Docker", "Jenkins"],
+      "level": "Senior",
+      "name": "Devops"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Développement de Webservices sur une plateforme interne",
+      "company": "MMA Assurance pour Sodifrance",
+      "location": "Le Mans",
+      "position": "Ingénieur Étude et développement",
+      "startDate": "2020-09-05",
+      "highlights": ["Java / Camel / SOAP / REST","Conception","Pilotage de projet"]
+    },
+    {
+      "summary": "Pilotage du support niveau 3 technologies Java",
+      "company": "MMA Assurance pour Sodifrance",
+      "location": "Le Mans",
+      "position": "Pilote d'activité",
+      "startDate": "2020-03-01",
+      "endDate": "2020-12-31",
+      "highlights": [
+        "Pilotage d'une équipe de 4 développeurs",
+        "Scrum Master",
+        "PMO",
+        "Gestion budgétaire",
+        "Java",
+        "Confluence / JIRA",
+        "Excel"
+      ]
+    },
+    {
+      "summary": "Maintenance et évolution d’une application de gestion d’épargne retraite",
+      "company": "CNP Assurance pour Sodifrance",
+      "location": "Le Mans",
+      "position": "Référent technique / Ingénieur Étude et développement",
+      "startDate": "2018-01-01",
+      "endDate": "2020-03-01",
+      "highlights": [
+        "Pilotage d'une équipe de 2 développeurs",
+        "Chiffrage et plannification de projet",
+        "Réalisation d'un traitement automatique de migration de SI(PLSQL)",
+        "Conception d’un service d’interprétation de formules EXCEL coté serveur (JAVA, POI)",
+        "Conception de Webservices REST (SpringMVC,JPA)",
+        "Intégration d'une solution DEVOPS (Jenkins/XLDeploy)",
+        "Livraison et suivi de production des évolutions",
+        "Java / SpringMVC / JPA / PLSQL / Git"
+      ]
+    },
+    {
+      "summary": "Création d'une plateforme d'applications de gestion d'agence",
+      "company": "Sodifrance",
+      "location": "Le Mans",
+      "position": "Concepteur / Leader technique",
+      "startDate": "2017-06-01",
+      "endDate": "2020-03-01",
+      "highlights": [
+        "Lead technique d'une équipe de développement",
+        "Chiffrage et plannification d'évolutions",
+        "Conception technique et priorisaiton des évolutions",
+        "Réalisation de la couche sécurité basée sur l’authentification Azure Office365",
+        "Réalisations d'applications BACK (Springboot, Symfony)",
+        "Réalisation d'application FRONT (Angular)",
+        "Formations",
+        "Java / SpringBoot / Angular / Symfony / Git"
+      ]
+    },
+    {
+      "summary": "Evolution d'une application de gestion de ticket",
+      "company": "GIE Sesam Vitale pour Sodifrance",
+      "location": "Le Mans",
+      "position": "Ingénieur Étude et développement",
+      "startDate": "2017-06-01",
+      "endDate": "2017-10-01",
+      "highlights": [
+        "Évolution et correction d’une application Front (JQuery / REST)",
+        "Amélioration des performances",
+        "Création d’une chaine batch de traitement et d’intégration de mails (PHP)", 
+        "PHP / Symphony / JQuery / REST"
+      ]
+    },
+    {
+      "summary": "Designer pour une marque de jeux gonflables professionnels",
+      "company": "Air et Volume",
+      "location": "Nogent le Rotrou",
+      "position": "Designer graphiste",
+      "startDate": "2011-09-01",
+      "endDate": "2016-07-31",
+      "highlights": [
+        "Conception / Designe de produit",
+        "CAO",
+        "Validationd des normes de sécurité", 
+        "Suivi de fabrication à l'international",
+        "Graphisme et communicaiton B2B",
+        "Animation de la vitrine Web"
+      ]
+    }
+    
+  ],
+  "interests": [
+    {
+      "name": "Escalade"
+    },
+    {
+      "name": "Séries"
+    },
+    {
+      "name": "Conversation Geek"
+    },
+    {
+      "name": "Café"
+    }
+  ]
+}
